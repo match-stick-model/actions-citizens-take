@@ -6,4 +6,12 @@ We'll explain how to submit a suggestion through the 'issues' tab, how to keep t
 
 This is a page we'll need to write copy for. It's the landing page for funding.
 
+- requests for proposals RFPS
+- open problem statements
+- projects that have had fundings awarded and milestones they've completed
+- success 
+
 A document we want to create is a ISO Procurement Policy and Procedures like this (but simpler)  https://www.iso.org/files/live/sites/isoorg/files/about%20ISO/working_with_iso/docs/Procurement_Procedures.pdf
+
+Proof of concepts
+* https://github.com/EthereumCommonwealth/Proposals
