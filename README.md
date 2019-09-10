@@ -14,4 +14,8 @@ This is a page we'll need to write copy for. It's the landing page for funding.
 A document we want to create is a ISO Procurement Policy and Procedures like this (but simpler)  https://www.iso.org/files/live/sites/isoorg/files/about%20ISO/working_with_iso/docs/Procurement_Procedures.pdf
 
 Proof of concepts
-* https://github.com/EthereumCommonwealth/Proposals
+* Aragon Nest https://github.com/aragon/nest/issues
+* Ethereum Commonwealth https://github.com/EthereumCommonwealth/Proposals
+* Zcash Grant System https://github.com/ZcashFoundation/zcash-grant-system
+* Zcash Foundation Grants: Call for Proposals (Q2 2018) https://github.com/ZcashFoundation/GrantProposals-2018Q2
+
