@@ -18,5 +18,6 @@ Proof of concepts
 * Ethereum Commonwealth https://github.com/EthereumCommonwealth/Proposals
 * Zcash Grant System https://github.com/ZcashFoundation/zcash-grant-system
 * Zcash Foundation Grants: Call for Proposals (Q2 2018) https://github.com/ZcashFoundation/GrantProposals-2018Q2
+* a list of funding opps https://github.com/fredexed/crypto-funding-ops
 
 Subscribe to this repo if you want to be updated about new research ideas and discussions.
