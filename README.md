@@ -21,3 +21,5 @@ Proof of concepts
 * a list of funding opps https://github.com/fredexed/crypto-funding-ops
 
 Subscribe to this repo if you want to be updated about new research ideas and discussions.
+
+The Fund allows Matchstick to quickly assess, fund and grow solutions that can improve people’s lives. Financial and technological support is available for companies that are using technology in innovative ways to improve the world.
