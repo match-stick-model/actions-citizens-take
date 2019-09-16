@@ -1,6 +1,19 @@
 # Welcome to the funding repo.
 
-This is the first page that will tell you about how the funding works. It's going to be an overview and a simple guide. You will be told how to submit ideas, how to monitor the stages of proposals by looking at the 'projects' in the top tab.
+This is the first page that will tell you about how the funding works. It's going to be an overview and a simple guide. You will learn how your can submit ideas, apply for funding and monitor the stages of proposals (look at the 'projects'tab).
+
+## Overview of the process
+
+* 00 - Open Problem Statements (OPS). Used by the council to indicate areas we're especially interested in funding.
+* 01 - Ideas. Big ideas are 'issues', and small fixes are 'pull requests'.
+* 02 - Review. Our team presents the ideas to the ambassadors for review and a vote.
+* 03 - Publish 'Requests for Proposals'. Approved ideas have a 'Request for Proposal' written, and published in 'issues' with an 'RFP' label.
+* 04 - Invite Proposals. The community and our team can invite proposals. Must include a timeline and milestones for funding.
+* 05 - Scoring. Ambassadors score proposals based on weighting set out in the RFP. A summary of the final scores shared in the comments.
+* 06 - Council Approval. The council sign-off on the projects that have been selected through scoring before funding can be released.
+* 07 - Award Project Status. A proposal becomes a project and milestones are set to indicate when phases of funding are released. 
+* 08. - Case Studies. Successful projects end with a post-mortem to measure success and help future projects learn from previous experience.
+* 09. Closed. All ideas or issues that not taken further are visible here with feedback.
 
 We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
 
