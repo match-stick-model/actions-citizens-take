@@ -27,7 +27,7 @@ An important concept to understand is that we separate idea submissions and rewa
 
 We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
 
-A document we want to create is a ISO Procurement Policy and Procedures like this (but simpler)  https://www.iso.org/files/live/sites/isoorg/files/about%20ISO/working_with_iso/docs/Procurement_Procedures.pdf
+
 
 Proof of concepts
 * Aragon Nest https://github.com/aragon/nest/issues
