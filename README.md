@@ -25,16 +25,7 @@ An important concept to understand is that we separate idea submissions and rewa
 
 ## How to submit your first idea
 
-We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
-
-
-
-Proof of concepts
-* Aragon Nest https://github.com/aragon/nest/issues
-* Ethereum Commonwealth https://github.com/EthereumCommonwealth/Proposals
-* Zcash Grant System https://github.com/ZcashFoundation/zcash-grant-system
-* Zcash Foundation Grants: Call for Proposals (Q2 2018) https://github.com/ZcashFoundation/GrantProposals-2018Q2
-* a list of funding opps https://github.com/fredexed/crypto-funding-ops
+We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met. You should usually submit an idea by opening an issue in the 'issues' tab.
 
 ## Terms and Conditions
 
