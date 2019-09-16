@@ -1,6 +1,6 @@
 # Welcome to the funding repo.
 
-This is the first page that will tell you about how the funding works. It's going to be an overview and a simple guide. You will learn how your can submit ideas, apply for funding and monitor the stages of proposals (look at the 'projects'tab).
+The Fund allows Matchstick to quickly assess, fund and grow solutions that can improve people’s lives. It's going to be an overview and a simple guide. You will learn how your can submit ideas, apply for funding and monitor the stages of proposals (look at the 'projects'tab).
 
 ## Overview of the process
 
@@ -35,10 +35,6 @@ Proof of concepts
 * Zcash Foundation Grants: Call for Proposals (Q2 2018) https://github.com/ZcashFoundation/GrantProposals-2018Q2
 * a list of funding opps https://github.com/fredexed/crypto-funding-ops
 
-Subscribe to this repo if you want to be updated about new research ideas and discussions.
-
-The Fund allows Matchstick to quickly assess, fund and grow solutions that can improve people’s lives. Financial and technological support is available for companies that are using technology in innovative ways to improve the world.
-
 ## Terms and Conditions
 
 Submitting an idea does not guarantee you will receive funding to execute it if it's approved. Our funding model separates and rewards idea submissions from awarding funding to implement ideas. If you submit an idea and it is accepted, anyone including yourself can write a proposal for funding for it. 
@@ -54,3 +50,6 @@ The decision as to award funding is entirely made at the discretion of the Carda
 * We reserve the right to change the terms and conditions, including cancelling the program at any time without notice. 
 
 Please note that you are responsible for complying with taxes and laws, and you agree to provide us with enough information, at our request, so that we can comply with all relevant laws and regulations.
+
+## Thank you for reading
+Subscribe to this repo if you want to be updated about new research ideas and discussions.
