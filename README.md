@@ -1,8 +1,17 @@
-# Welcome to the funding repo.
+# Start Here
 
-The Fund allows Matchstick to quickly assess, fund and grow solutions that can improve people’s lives. It's going to be an overview and a simple guide. You will learn how your can submit ideas, apply for funding and monitor the stages of proposals (look at the 'projects'tab).
+The Fund allows Matchstick to quickly assess, Fund and grow solutions that can improve people's lives. It's going to be an overview and a simple guide. You will learn how you can submit ideas, apply for funding and monitor the stages of proposals (look at the 'projects' tab).
 
-## Overview of the process
+## Introduction
+An important concept to understand is that we separate idea submissions and rewards for good ideas, from awarding funds to people or teams who will implement those ideas. This means if you submit an idea and it is accepted, a 'request for proposal' will be written and anyone (including yourself) can then write a proposal to compete for the funding. This means it's more likely good ideas will be executed by the best talent available. 
+
+## Terminology 
+* A 'Request for Proposal' is an idea that's been approved and written up into a formal brief. Its a project funding announcement for which proposals are invited. The RFP outlines the scoring process and contract terms and guides how the bid should be formatted.
+* An 'Open Problem Statement' is created by the Council and used to prompt and focus discussion and investigation in areas of interest that The Foundation is especially interested in funding.
+* An 'issue' is a project or idea that requires funding.
+* A 'pull request.'
+
+## Overview of the Process
 
 * 00 - Open Problem Statements (OPS). Used by the council to indicate areas we're especially interested in funding.
 * 01 - Ideas. Big ideas are 'issues', and small fixes are 'pull requests'.
@@ -18,13 +27,6 @@ The Fund allows Matchstick to quickly assess, fund and grow solutions that can i
 ## How to submit your first idea
 
 We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
-
-This is a page we'll need to write copy for. It's the landing page for funding.
-
-- requests for proposals RFPS
-- open problem statements
-- projects that have had fundings awarded and milestones they've completed
-- success 
 
 A document we want to create is a ISO Procurement Policy and Procedures like this (but simpler)  https://www.iso.org/files/live/sites/isoorg/files/about%20ISO/working_with_iso/docs/Procurement_Procedures.pdf
 
