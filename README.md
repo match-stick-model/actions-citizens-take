@@ -15,7 +15,7 @@ This is the first page that will tell you about how the funding works. It's goin
 * 08 - Case Studies. Successful projects end with a post-mortem to measure success and help future projects learn from previous experience.
 * 09 Closed. All ideas or issues that not taken further are visible here with feedback.
 
-##How to submit an idea
+## How to submit your first idea
 
 We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
 
