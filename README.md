@@ -38,3 +38,19 @@ Proof of concepts
 Subscribe to this repo if you want to be updated about new research ideas and discussions.
 
 The Fund allows Matchstick to quickly assess, fund and grow solutions that can improve people’s lives. Financial and technological support is available for companies that are using technology in innovative ways to improve the world.
+
+## Terms and Conditions
+
+Submitting an idea does not guarantee you will receive funding to execute it if it's approved. Our funding model separates and rewards idea submissions from awarding funding to implement ideas. If you submit an idea and it is accepted, anyone including yourself can write a proposal for funding for it. 
+
+The decision as to award funding is entirely made at the discretion of the Cardano's Ambassadors and requires sign off from The Council.
+
+* By submitting an idea, application or contribution, an individual or organization agrees:
+* To use any support provided solely for the project described in the funding request and to provide documentation supporting this use, if requested,
+* To exercise control or coordination over the supported project,
+* To be willing to disclose that The Cardano Foundation provided financial support,
+* To meet with potential collaborators within The Cardano Foundation to participate in projects effort.
+* To release the results as open-source under MIT license, if feasible.
+* We reserve the right to change the terms and conditions, including cancelling the program at any time without notice. 
+
+Please note that you are responsible for complying with taxes and laws, and you agree to provide us with enough information, at our request, so that we can comply with all relevant laws and regulations.
