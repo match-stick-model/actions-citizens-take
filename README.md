@@ -12,8 +12,10 @@ This is the first page that will tell you about how the funding works. It's goin
 * 05 - Scoring. Ambassadors score proposals based on weighting set out in the RFP. A summary of the final scores shared in the comments.
 * 06 - Council Approval. The council sign-off on the projects that have been selected through scoring before funding can be released.
 * 07 - Award Project Status. A proposal becomes a project and milestones are set to indicate when phases of funding are released. 
-* 08. - Case Studies. Successful projects end with a post-mortem to measure success and help future projects learn from previous experience.
-* 09. Closed. All ideas or issues that not taken further are visible here with feedback.
+* 08 - Case Studies. Successful projects end with a post-mortem to measure success and help future projects learn from previous experience.
+* 09 Closed. All ideas or issues that not taken further are visible here with feedback.
+
+##How to submit an idea
 
 We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
 
