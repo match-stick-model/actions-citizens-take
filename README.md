@@ -8,15 +8,14 @@ An important concept to understand is that we separate idea submissions and rewa
 ## Terminology 
 * A 'Request for Proposal' is an idea that's been approved and written up into a formal brief. Its a project funding announcement for which proposals are invited. The RFP outlines the scoring process and contract terms and guides how the bid should be formatted.
 * An 'Open Problem Statement' is created by the Council and used to prompt and focus discussion and investigation in areas of interest that The Foundation is especially interested in funding.
-* An 'issue' is a project or idea that requires funding.
-* A 'pull request.'
+* An 'issue' is an idea that you think ought to be funded.
 
 ## Overview of the Process
 
 * 00 - Open Problem Statements (OPS). Used by the council to indicate areas we're especially interested in funding.
 * 01 - Ideas. Big ideas are 'issues', and small fixes are 'pull requests'.
 * 02 - Review. Our team presents the ideas to the ambassadors for review and a vote.
-* 03 - Publish 'Requests for Proposals'. Approved ideas have a 'Request for Proposal' written, and published in 'issues' with an 'RFP' label.
+* 03 - Approve. Create and publish a 'Requests for Proposal' in 'issues' with an 'RFP' label.
 * 04 - Invite Proposals. The community and our team can invite proposals. Must include a timeline and milestones for funding.
 * 05 - Scoring. Ambassadors score proposals based on weighting set out in the RFP. A summary of the final scores shared in the comments.
 * 06 - Council Approval. The council sign-off on the projects that have been selected through scoring before funding can be released.
