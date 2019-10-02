@@ -31,13 +31,13 @@ We'll explain how to submit a suggestion through the 'issues' tab, how to keep t
 
 Submitting an idea does not guarantee you will receive funding to execute it if it's approved. Our funding model separates and rewards idea submissions from awarding funding to implement ideas. If you submit an idea and it is accepted, anyone including yourself can write a proposal for funding for it. 
 
-The decision as to award funding is entirely made at the discretion of the Cardano's Ambassadors and requires sign off from The Council.
+The decision as to award funding is entirely made at the discretion of the Matchsticks' Ambassadors and requires sign off from The Council.
 
 * By submitting an idea, application or contribution, an individual or organization agrees:
 * To use any support provided solely for the project described in the funding request and to provide documentation supporting this use, if requested,
 * To exercise control or coordination over the supported project,
-* To be willing to disclose that The Cardano Foundation provided financial support,
-* To meet with potential collaborators within The Cardano Foundation to participate in projects effort.
+* To be willing to disclose that The  Matchsticks Foundation provided financial support,
+* To meet with potential collaborators within The  Matchsticks Foundation to participate in projects effort.
 * To release the results as open-source under MIT license, if feasible.
 * We reserve the right to change the terms and conditions, including cancelling the program at any time without notice. 
 
