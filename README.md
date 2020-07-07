@@ -13,15 +13,16 @@ An important concept to understand is that we separate idea submissions and rewa
 ## Overview of the Process
 
 * 00 - Open Problem Statements (OPS). Used by the council to indicate areas we're especially interested in funding.
-* 01 - Ideas. Big ideas are 'issues', and small fixes are 'pull requests'.
+* 01 - Ideas. Submitted by the community as ‘issues’.
 * 02 - Review. Our team presents the ideas to the ambassadors for review and a vote.
 * 03 - Approve. Create and publish a 'Requests for Proposal' in 'issues' with an 'RFP' label.
 * 04 - Invite Proposals. The community and our team can invite proposals. Must include a timeline and milestones for funding.
-* 05 - Scoring. Ambassadors score proposals based on weighting set out in the RFP. A summary of the final scores shared in the comments.
-* 06 - Council Approval. The council sign-off on the projects that have been selected through scoring before funding can be released.
-* 07 - Award Project Status. A proposal becomes a project and milestones are set to indicate when phases of funding are released. 
-* 08 - Case Studies. Successful projects end with a post-mortem to measure success and help future projects learn from previous experience.
-* 09 Closed. All ideas or issues that not taken further are visible here with feedback.
+* 05 - Proposals are submitted as a ‘Pull Request’ by third parties. 
+* 06 - Scoring. Ambassadors score proposals based on weighting set out in the RFP. A summary of the final scores shared in the comments.
+* 07 - Council Approval. The council sign-off on the projects that have been selected through scoring before funding can be released.
+* 08 - Award Project Status. A proposal becomes a project and milestones are set to indicate when phases of funding are released.
+* 09 - Case Studies. Successful projects end with a post-mortem to measure success and help future projects learn from previous experience.
+* 10 - Closed. All ideas or issues that not taken further are visible here with feedback.
 
 ## How to submit your first idea
 
