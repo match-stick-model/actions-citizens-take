@@ -1,6 +1,6 @@
 # Start Here
 
-The Grants allow Matchstick to quickly assess, fund and grow solutions that can improve people's lives. It's going to be an overview and a simple guide. You will learn how you can submit ideas, apply for funding and monitor the stages of proposals (look at the 'projects' tab).
+ACTs are ideas and suggestions from the community to the community. Ideas are submitted in a standardized location to encourage the community to self-organize and for the Matchstick Foundation to award grants. This is going to be an overview and a simple guide. You will learn how you can submit ideas, apply for funding, and monitor the stages of proposals (look at the 'projects' tab).
 
 ## Introduction
 An important concept to understand is that we separate idea submissions and rewards for good ideas, from awarding funds to people or teams who will implement those ideas. This means if you submit an idea and it is accepted, a 'request for proposal' will be written and anyone (including yourself) can then write a proposal to compete for the funding. This means it's more likely good ideas will be executed by the best talent available. 
