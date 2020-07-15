@@ -6,8 +6,9 @@ ACTs are ideas and suggestions from the community to the community. Ideas are su
 An important concept to understand is that we separate idea submissions and rewards for good ideas, from awarding funds to people or teams who will implement those ideas. This means if you submit an idea and it is accepted, a 'request for proposal' will be written and anyone (including yourself) can then write a proposal to compete for the funding. This means it's more likely good ideas will be executed by the best talent available. 
 
 ## Terminology 
-* A 'Request for Proposal' is an idea that's been approved and written up into a formal brief. Its a project funding announcement for which proposals are invited. The RFP outlines the scoring process and contract terms and guides how the bid should be formatted.
-* An 'Open Problem Statement' is created by the Council and used to prompt and focus discussion and investigation in areas of interest that The Foundation is especially interested in funding.
+* An 'Action Citizens Take' (ACT) is an idea submitted by the community and can be discussed and delivered by self-organizing groups within the community. 
+* A 'Request for Proposal' (RFP) is an idea that's been approved by Ambassadors and written up into a formal brief. Its a project funding announcement for which proposals are invited. The RFP outlines the scoring process and contract terms and guides how the bid should be formatted.
+* An 'Open Problem Statement' (OPS) is created by the Council and used to prompt and focus discussion and investigation in areas of interest that The Foundation is especially interested in funding.
 * An 'issue' is an idea that you think ought to be funded.
 
 ## Overview of the Process
